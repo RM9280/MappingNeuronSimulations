@@ -1,7 +1,9 @@
 This Java package simulates the Hodgkin-Huxley (HH) model of a neuron, allowing the study of action potentials, ion currents, and firing frequency. 
 The package also includes a simple graphing utility (SwingGraphics) to visualize membrane potential and currents over time.
 
-The Hodgkin-Huxley model is a foundational computational neuroscience model describing the ionic mechanisms underlying the generation of action potentials in neurons. This package provides three variations of HH neuron simulations:
+The Hodgkin-Huxley model is a foundational computational neuroscience model describing the ionic mechanisms underlying the generation of action potentials in neurons. 
+
+This package provides three variations of HH neuron simulations:
 
 HH_NeuronStarter – Basic simulation with separate sodium (Na⁺) and potassium (K⁺) currents, visualized with graphs.
 
